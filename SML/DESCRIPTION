@@ -1,0 +1,14 @@
+Package: SML
+Type: Package
+Title: Statistical Machine Learning
+Version: 1.01
+Date: 2014-07-04
+Author: Kevin Lin
+Maintainer: Kevin Lin <klin1234@gmail.com>
+Depends: glmnet, Matrix, lattice, mclust, animation, mixtools, svmpath
+Description: The SML package is a collection of statistical machine learning methods, demoes and datasets.
+License: GPL-2
+Repository: CRAN
+Date/Publication: 2013-08-26 22:16:57
+Packaged: 2013-08-26 19:46:43 UTC; tourzhao
+NeedsCompilation: no
